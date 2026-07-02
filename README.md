@@ -1,0 +1,2 @@
+# churn-dataset
+Machine Learning project to predict customer churn using Python
